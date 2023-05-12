@@ -13,4 +13,5 @@ color: var(--branco-principal);
 .principal{
     background-image: url("Background.png");
     background-size: contain;
+    background-repeat: no-repeat;
 }
