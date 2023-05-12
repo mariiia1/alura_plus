@@ -11,5 +11,5 @@ color: var(--branco-principal);
 }
 
 .principal{
-    background-image:url("Background.png");
+    background-image: url("Background.png");
 }
