@@ -20,4 +20,13 @@ color: var(--branco-principal);
 .principal-botao{
     background-color: var(--botao-azul);
     color: var(--branco-principal);
+    border-radius: 5px;
+    padding: 16px;
+}
+
+.principal-botao{
+    background-color: transparent;
+    color: var(--branco-principal);
+    border-radius: 5px;
+    padding: 16px;
 }
