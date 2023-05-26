@@ -40,6 +40,7 @@ font-weight: 400;
     padding: 16px;
     text-decoration: none;
     display: block;
+    margin-bottom: '16px';
 }
 
 .principal-titulo{
@@ -50,4 +51,8 @@ font-weight: 400;
 .principal-aviso{
     font-size: 14px;
     color: var(--cinza-secundario);
+}
+
+.principal-imagem{
+    margin: 16px 0 32px 0;
 }
