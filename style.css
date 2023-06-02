@@ -73,3 +73,7 @@ font-weight: 400;
     font-weight: 700;
     font-size: 48px;
 }
+
+.secundaria-texto{
+    color: var(--cinza-secundario);
+}
