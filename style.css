@@ -81,4 +81,6 @@ font-weight: 400;
 .secundaria-botao{
     display: inline-block;
     margin-top: 16px;
+    background-color: #167bf7;
+    border-radius: 15px;
 }
