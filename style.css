@@ -84,3 +84,13 @@ font-weight: 400;
     background-color: #167bf7;
     border-radius: 15px;
 }
+
+.dispositivos-lista {
+    display: flex;
+    list-style-type: none;
+    margin: 80px 0;
+}
+
+.dispositivos{
+    text-align: center;
+}
